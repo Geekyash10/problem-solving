@@ -36,6 +36,7 @@ void solve()
                 if (mp[x] > 0 && mp[m] > 0)
                 {
                     cout << x << " " << m << endl;
+                    break;
                 }
             }
         }
