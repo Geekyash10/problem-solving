@@ -6,6 +6,7 @@
         "random": "cpp",
         "*.tcc": "cpp",
         "regex": "cpp",
-        "tuple": "cpp"
+        "tuple": "cpp",
+        "utility": "cpp"
     }
 }
